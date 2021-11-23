@@ -1,4 +1,4 @@
-package generated
+package models
 
 data class Source(
     val id: Any,

@@ -1,4 +1,4 @@
-package generated
+package models
 
 data class NewsResponse(
     val articles: List<Article>,
